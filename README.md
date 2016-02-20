@@ -1,3 +1,5 @@
+*Deprecated in favor of [Nuimo emulator for iOS](https://github.com/getsenic/nuimo-emulator-ios) and [Nuimo emulator for Android](https://github.com/getsenic/nuimo-emulator-android)*
+
 Web application to simulate Nuimo controllers over web sockets
 
 #Requirements
